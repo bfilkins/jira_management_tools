@@ -4,4 +4,4 @@ This repository is a series of tools to help with management level tasks. This w
 
 The exec.R file controls the workflow and scripts are sourced from python and R for respective APIs.
 
-Some of the things that I think are most interesting here is defining and calling python functions in R (including passing .Renviron vars through functions), always helpful error trapping API calls with R's tryCatch functionality and writing out to tableau's .hyper file format so project managers or business analyst stakeholders can consume the data in a very clean way.
+Some of the things that I think are most interesting here is defining and calling python functions in R (including passing .Renviron vars through py functions), some helpful error trapping API calls with R's tryCatch functionality and writing out to tableau's .hyper file format so project managers or business analyst stakeholders can consume the data in a very clean way.
